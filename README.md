@@ -2,15 +2,8 @@
 
 Hey there! Thanks for dropping by my corner of the internet. Below, you'll find a sneak peek into what I've been up to lately. Let's dive in!
 
-## Skills & Expertise 🌟
 
-- **Cloud Connoisseur:** Mastered AWS Academy Cloud Foundations.
-- **Google Cloud Trailblazer:** Completed the Google Cloud Digital Leader Learning Path.
-- **React Enthusiast:** Nailed the Complete React.js and Next.js Course on Udemy.
-- **Product Wizard:** Earned my stripes with a Product Roadmapping and Strategy Micro Certification from The Product School.
-- **Algo Geek:** Delved into the world of Data Structures and Algorithms in C++ with GeeksforGeeks.
-
-## Passion Projects & Adventures 💼
+## Passion Projects  💼
 
 ### Radiant Skincare Web App ✨
 Created a sleek skincare app that makes glowing skin a breeze! Used JavaScript, React, Redux, Python, Flask, and PostgreSQL to make it happen.
